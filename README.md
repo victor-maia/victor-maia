@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre os proje
 ## Conhecimentos e Tecnologias
 
 ### Tecnologias
-div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 8px; width: 100px; height: 30px;"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="margin: 8px; width: 100px; height: 30px;"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 8px; width: 100px; height: 30px;"/>
