@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia e este é o meu portfólio! Aqui, você encontrar�
 <br>
 
 `Email: ` victorluiscmaia@gmail.com 📧<br>
-`TurnoEnum: ` https://www.linkedin.com/in/victor-maia-24aa63248/  💼
+`Linkedin: ` https://www.linkedin.com/in/victor-maia-24aa63248/  💼
 
 
 
