@@ -18,8 +18,8 @@ Sou apaixonado por tecnologia e este é o meu portfólio! Aqui, você encontrar�
 </div>
 <br>
 <br>
-- **Email:** [victorluiscmaia@gmail.com](mailto:victor.maia@example.com) 📧<br>
-- **LinkedIn:** [linkedin.com/in/victormaia](https://linkedin.com/in/victormaia) 💼
+- **Email:** victorluiscmaia@gmail.com 📧<br>
+- **LinkedIn:** https://www.linkedin.com/in/victor-maia-24aa63248/  💼
 
 
 
