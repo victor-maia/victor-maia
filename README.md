@@ -3,10 +3,6 @@
 Sou apaixonado por tecnologia e este é o meu portfólio! Aqui, você encontrará informações sobre os projetos que desenvolvi e as tecnologias que domino. Meu objetivo é criar soluções eficientes e inovadoras, sempre buscando aprimorar minhas habilidades e colaborar com a comunidade de desenvolvedores. Seja bem-vindo! 🚀
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 8px;"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 8px;"/>
@@ -22,10 +18,7 @@ Sou apaixonado por tecnologia e este é o meu portfólio! Aqui, você encontrar�
 </div>
 <br>
 <br>
-<br>
-<br>
-<br>
-- **Email:** [victorluiscmaia@gmail.com](mailto:victor.maia@example.com) 📧
+- **Email:** [victorluiscmaia@gmail.com](mailto:victor.maia@example.com) 📧<br>
 - **LinkedIn:** [linkedin.com/in/victormaia](https://linkedin.com/in/victormaia) 💼
 
 
