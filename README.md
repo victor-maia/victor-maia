@@ -20,7 +20,6 @@ Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre os proje
     <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" style="margin: 8px;"/>
     <img src="https://img.shields.io/badge/-NoSQL-3E4C59?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" style="margin: 8px;"/>
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 8px;"/>
-    <img src="https://img.shields.io/badge/-API%20Restful-0052CC?style=for-the-badge&logo=restful&logoColor=white" alt="API Restful" style="margin: 8px;"/>
 </div>
 
 ### Metodologias Ágeis
