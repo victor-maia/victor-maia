@@ -17,9 +17,14 @@ Sou apaixonado por tecnologia e este é o meu portfólio! Aqui, você encontrar�
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 8px;"/>
 </div>
 
+
+
+
+
 - **Email:** [victorluiscmaia@gmail.com](mailto:victor.maia@example.com) 📧
 - **LinkedIn:** [linkedin.com/in/victormaia](https://linkedin.com/in/victormaia) 💼
 
----
+
+
 
 Feito com ❤️ por [Victor Maia](https://github.com/victor-maia) 😊
