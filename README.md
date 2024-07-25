@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor 🖐️
 
-Sou apaixonado por tecnologia e este é o meu portfólio! Atualmente sou estágiario de Software Production Developer na Giesecke & Devrient. Aqui, você encontrará informações sobre os projetos que desenvolvi e as tecnologias que domino. Meu objetivo é criar soluções eficientes e inovadoras, sempre buscando aprimorar minhas habilidades e colaborar com a comunidade de desenvolvedores. Seja bem-vindo! 🚀
+Sou apaixonado por tecnologia e este é o meu portfólio! </br> Atualmente sou estágiario de Software Production Developer na Giesecke & Devrient. Aqui, você encontrará informações sobre os projetos que desenvolvi e as tecnologias que domino. Meu objetivo é criar soluções eficientes e inovadoras, sempre buscando aprimorar minhas habilidades e colaborar com a comunidade de desenvolvedores. Seja bem-vindo! 🚀
 <br>
 <br>
 <div style="display: flex; flex-wrap: wrap;">
